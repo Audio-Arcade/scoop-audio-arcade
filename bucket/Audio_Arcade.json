@@ -18,13 +18,5 @@
     "script": [
       "Start-Process 'msiexec.exe' -ArgumentList '/x', '{598B8641-23FB-4E96-BC34-975F4C16357E}', '/quiet', '/norestart' -Wait -NoNewWindow"
     ]
-  },
-  "checkver": "github",
-  "autoupdate": {
-    "architecture": {
-      "64bit": {
-        "url": "https://github.com/Audio-Arcade/Audio_Arcade/releases/download/Release/Audio_Arcade.msi"
-      }
-    }
   }
 }
