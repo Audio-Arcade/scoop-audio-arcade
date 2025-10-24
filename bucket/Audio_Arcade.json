@@ -1,6 +1,6 @@
 {
     "version": "3.0.0",
-    "description": "Audio Arcade - Lecteur audio moderne avec interface interactive et contrôles rapides.",
+    "description": "Audio_Arcade - Lecteur audio moderne avec interface interactive et contrôles rapides.",
     "homepage": "https://github.com/Audio-Arcade/Audio_Arcade",
     "license": "Freeware",
     "architecture": {
@@ -22,7 +22,7 @@
     "shortcuts": [
         [
             "Audio_Arcade.exe",
-            "Audio Arcade"
+            "Audio_Arcade"
         ]
     ],
     "checkver": {
